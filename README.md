@@ -1,7 +1,9 @@
 # Mastering Unreal Engine 5 Game Development with C++ Scripting
 ## Dive deep into Unreal Engine 5 with advanced C++ scripting, performance optimization, and engine-level development
 
-Project companion repository.
+## Paws in the Shell - The OmniSight Conspiracy
+Book companion project
+
 
 ## Credits
 * **Ultimate Space Kit** and **Cyberpunk Game Kit** assets by [Quaternius](https://quaternius.com/)
