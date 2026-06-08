@@ -6,7 +6,7 @@ The book is available on Amazon: https://www.amazon.com/Mastering-Unreal-Engine-
 ![book cover](https://github.com/PacktPublishing/Mastering-Unreal-Engine-5-Game-Development-with-C-Scripting/blob/main/book_cover.jpg)
 
 ## Paws in the Shell - The OmniSight Conspiracy
-## Book companion project (Unreal Engine 5.7)
+### Book companion project (Unreal Engine 5.7)
 
 Source code can be downloaded here: https://github.com/PacktPublishing/Mastering-Unreal-Engine-5-Game-Development-with-C-Scripting/releases
 
