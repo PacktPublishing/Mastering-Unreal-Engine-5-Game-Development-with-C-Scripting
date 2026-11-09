@@ -84,7 +84,7 @@ Guided by real-world examples and a practical project, you’ll apply these conc
 
 <p><em>Book companion project (Unreal Engine 5.7)</em></p>
 
-<p>[Errata corrige](./errata_corrige.md)</p>
+[Errata corrige](./errata_corrige.md)
 
 <p>This project accompanies the book and contains the main code files used throughout its chapters.<Br> <strong>Download the source code here: <a href="https://github.com/PacktPublishing/Mastering-Unreal-Engine-5-Game-Development-with-C-Scripting/releases">Paws in the Shell releases</a></strong></p>
 
