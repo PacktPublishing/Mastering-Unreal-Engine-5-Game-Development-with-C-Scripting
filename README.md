@@ -7,8 +7,6 @@ Build efficient, scalable gameplay systems using advanced C++ in UE5
 <p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/mastering-unreal-engine-5-game-development-with-c-scripting-first-edition-9781806665938"> Mastering Unreal Engine 5 Game Development with C++ Scripting, First Edition</a>, published by Packt.
 </p>
 
-[Errata corrige](./errata_corrige.md)
-
 <p align="center">
 Marco Secchi</p>
 
@@ -85,6 +83,8 @@ Guided by real-world examples and a practical project, you’ll apply these conc
 <h3>Paws in the Shell - The OmniSight Conspiracy</h3>
 
 <p><em>Book companion project (Unreal Engine 5.7)</em></p>
+
+<p>[Errata corrige](./errata_corrige.md)</p>
 
 <p>This project accompanies the book and contains the main code files used throughout its chapters.<Br> <strong>Download the source code here: <a href="https://github.com/PacktPublishing/Mastering-Unreal-Engine-5-Game-Development-with-C-Scripting/releases">Paws in the Shell releases</a></strong></p>
 
