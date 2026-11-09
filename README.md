@@ -7,6 +7,7 @@ Build efficient, scalable gameplay systems using advanced C++ in UE5
 <p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/mastering-unreal-engine-5-game-development-with-c-scripting-first-edition-9781806665938"> Mastering Unreal Engine 5 Game Development with C++ Scripting, First Edition</a>, published by Packt.
 </p>
 
+[Errata corrige](./errata_corrige.md)
 
 <p align="center">
 Marco Secchi</p>
